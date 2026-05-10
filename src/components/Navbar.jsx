@@ -15,6 +15,7 @@ export function Navbar() {
           <div>
             <div className="text-sm font-extrabold tracking-tight">TodoFlow</div>
             <div className="text-xs text-slate-500 dark:text-slate-400">Modern task manager</div>
+            <div className="text-xs text-slate-500 dark:text-slate-400">By Amirhossain Mostafavi</div>
           </div>
         </div>
 
